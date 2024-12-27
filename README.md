@@ -1,13 +1,12 @@
 # Crud Method
 ## Overview
-A simple blog application built with Django and Django REST Framework. It supports CRUD operations for posts and comments, token-based authentication, pagination, and likes.
+A simple blog application built with Django and Django Framework. It supports CRUD operations for posts and comments, pagination, and likes.
 
 ---
 
 ## Features
 - Create, Read, Update, and Delete posts.
 - Add comments to posts.
-- User authentication using tokens.
 - Pagination for posts.
 - Like and count likes for posts.
 
@@ -15,18 +14,18 @@ A simple blog application built with Django and Django REST Framework. It suppor
 
 ## Setup and Installation
 ### Prerequisites
-- Python 3.x
+- Python
 - pip (Python package manager)
 - Virtual environment tool (optional)
 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/roselinrani1303/blog-application.git
+   git clone https://github.com/Ashokkumar-debug/Django-crud-method.git
    ```
 2. Move to the project folder:
    ```bash
-   cd blog-application
+   cd myproject
    ```
 3. Install the requirements:
    ```bash
