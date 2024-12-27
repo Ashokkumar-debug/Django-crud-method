@@ -88,23 +88,23 @@ This application uses an SQL database for storing data related to posts, comment
 
 ### My SQL Workbench
 
-![My SQL Workbench](sql.jpeg)
+![My SQL Workbench](sql.png)
 
 ### Employee Table
 
-![Employee Table](output_images/o2.jpeg)
+![Employee Table](main table.png)
 
 ### Add Employee
 
-![Add Employee](output_images/o3.jpeg)
+![Add Employee](add details.png)
 
 ### Employee Added
 
-![Employee Added](output_images/o4.jpeg)
+![Employee Added](main table.png)
 
 ### Update Employee
 
-![Update Employee](output_images/o5.jpeg)
+![Update Employee](update.png)
 
 ---
 
