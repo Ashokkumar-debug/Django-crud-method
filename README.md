@@ -1,5 +1,4 @@
-# Blog Application
-
+# Crud Method
 ## Overview
 A simple blog application built with Django and Django REST Framework. It supports CRUD operations for posts and comments, token-based authentication, pagination, and likes.
 
