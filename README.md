@@ -92,21 +92,25 @@ This application uses an SQL database for storing data related to posts, comment
 
 ### Employee Table
 
-![Employee Table](main table.png)
+![Employee Table](main.png)
 
 ### Add Employee
 
-![Add Employee](add details.png)
+![Add Employee](add.png)
 
 ### Employee Added
 
-![Employee Added](main table.png)
+![Employee Added](main.png)
 
 ### Update Employee
 
 ![Update Employee](update.png)
 
+### Delete Employee
+
+![Update Employee](delete.png)
+
+
 ---
 
-## Repository
-[GitHub Repository](https://github.com/roselinrani1303/blog-application.git)
+
